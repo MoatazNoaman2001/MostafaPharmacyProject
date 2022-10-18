@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/activity_login.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/add_prescription.xml" value="0.2390625" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/content_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/drawer_header.xml" value="0.2359375" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/fragment_blank.xml" value="0.2390625" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/fragment_initaite.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/fragment_medicine_detailed.xml" value="0.1" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/fragment_my_precritpions.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/fragment_pharmacies.xml" value="0.19709277469003847" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/fragment_search_medicine.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/fragment_second.xml" value="0.14101929737753588" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/fragment_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/medicine_recycle_item.xml" value="0.1" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/my_prescription_recycle_item_layout.xml" value="0.18446601941747573" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/layout/view_pager_prescription_item.xml" value="0.2" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/menu/drawer_menu.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/menu/menu_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/Mo3taz kayad/AndroidStudioProjects/MostafaPharmacyProject/app/src/main/res/menu/search_menu_done.xml" value="0.24010416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

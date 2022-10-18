@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/MainMedicineListFragment">
+
+    <fragment
+        android:id="@+id/MainMedicineListFragment"
+        android:name="com.example.mostafapharmacyproject.Fragments.MainMedicineListFragment"
+        android:label="medicines"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_FirstFragment_to_SecondFragment"
+            app:destination="@id/PrescriptionFragment" />
+        <action
+            android:id="@+id/action_MainMedicineListFragment_to_medicineDetailedFragment"
+            app:destination="@id/medicineDetailedFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/PrescriptionFragment"
+        android:name="com.example.mostafapharmacyproject.Fragments.PrescriptionFragment"
+        android:label="prescription"
+        tools:layout="@layout/fragment_second">
+
+        <action
+            android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/MainMedicineListFragment" />
+        <action
+            android:id="@+id/action_PrescriptionFragment_to_searchMedicineFragment"
+            app:destination="@id/searchMedicineFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/myPrecritpionsFragment"
+        android:name="com.example.mostafapharmacyproject.Fragments.MyPrecritpionsFragment"
+        android:label="My Prescriptions"
+        tools:layout="@layout/fragment_my_precritpions" />
+    <fragment
+        android:id="@+id/searchMedicineFragment"
+        android:name="com.example.mostafapharmacyproject.Fragments.SearchMedicineFragment"
+        android:label="search"
+        tools:layout="@layout/fragment_search_medicine" />
+    <fragment
+        android:id="@+id/medicineDetailedFragment"
+        android:name="com.example.mostafapharmacyproject.Fragments.MedicineDetailedFragment"
+        android:label="fragment_medicine_detailed"
+        tools:layout="@layout/fragment_medicine_detailed" />
+    <fragment
+        android:id="@+id/pharmaciesFragment"
+        android:name="com.example.mostafapharmacyproject.Fragments.PharmaciesFragment"
+        android:label="Pharmacies"
+        tools:layout="@layout/fragment_pharmacies" />
+</navigation>
